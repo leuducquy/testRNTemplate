@@ -21,7 +21,7 @@ import { bindActionCreators } from 'redux';
 import Loader from './Components/Loader';
 import { isLoginAction, loginAction } from '../reduxFile/action/login';
 import { connect } from 'react-redux';
-import AsyncStorage from '@react-native-community/async-storage';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import { loginBgImage } from './Components/Image';
 import { heightScreen, widthScreen ,ratioHeight,ratioHwidth} from './Utils/dimension';
 const LoginScreen = ({navigation,loginInfo}) => {

@@ -9,7 +9,7 @@ import { useSelector, useDispatch } from 'react-redux';
 import { connect } from 'react-redux';
 import { useRoute } from '@react-navigation/native';
 import { heightScreen } from '../Utils/dimension';
-import AsyncStorage from '@react-native-community/async-storage';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import { arrowMenuIcon, changePassMenuIcon, helpMenuIcon, logoutIcon, managerIcon, menuAvatarIcon, newsIcon, notiIcon, searchMenuIcon, serviceMenuIcon, settingMenuIcon } from './Image';
 import { baseGreenMenu } from '../Utils/colorsUtil';
 const   dataSouce = [

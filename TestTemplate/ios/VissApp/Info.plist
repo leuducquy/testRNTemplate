@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>VssID</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>We don't use this function but it required from library</string>
+  <key>NSCalendarsUsageDescription</key>
+  <string>We  don't use this function but it required from library</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>We  don't use this function but it required from library</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>We  don't use this function but it required from library</string>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>We  don't use this function but it required from library</string>
+	<key>NSCalendarsWriteOnlyAccessUsageDescription</key>
+	<string>We  don't use this function but it required from library</string>
+	<key>NSCameraUsageDescription</key>
+	<string>We  don't use this function but it required from library</string>
+	<key>NSContactsUsageDescription</key>
+	<string>We  don't use this function but it required from library</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>We  don't use this function but it required from library</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>We  don't use this function but it required from library</string>
+	<key>NSLocationTemporaryUsageDescriptionDictionary</key>
+	<dict>
+		<key>We  don't use this function but it required from library</key>
+		<string>We  don't use this function but it required from library</string>
+	</dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We  don't use this function but it required from library</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>We don't use this function but it required from library</string>
+	<key>NSMotionUsageDescription</key>
+	<string>We don't use this function but it required from library</string>
+	<key>NSRemindersFullAccessUsageDescription</key>
+	<string>We don't use this function but it required from library</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>We don't use this function but it required from library</string>
+	<key>NSSiriUsageDescription</key>
+	<string>We don't use this function but it required from library</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>We don't use this function but it required from library</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Allow app to access device photo library</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Allow app to add photos to device photo library</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<false/>
+		<key>NSAllowsLocalNetworking</key>
+		<true/>
+	</dict>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

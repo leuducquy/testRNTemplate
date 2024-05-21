@@ -1,7 +1,7 @@
 {
-  "name": "ProjectName",
+  "name": "testRNTemplate",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "scripts": {
     "android": "npx react-native run-android --port 8082",
     "ios": "react-native run-ios --simulator 'iPhone 15'",

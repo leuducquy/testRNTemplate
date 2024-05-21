@@ -4,7 +4,7 @@ module.exports = {
   placeholderName: "TestTemplate",
 
   // Directory with template
-  templateDir: "./TestTemplate",
+  templateDir: "./template",
 
   // Path to script, which will be executed after init
   postInitScript: "./script.js"
